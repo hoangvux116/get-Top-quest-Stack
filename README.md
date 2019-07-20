@@ -1,4 +1,4 @@
-# get Top Voted Answer on StackOverflow
+# get top voted Questions on StackOverflow
 This script is used for getting repositoes of a certain 
 
 ## How to run:
