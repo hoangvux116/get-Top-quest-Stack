@@ -1,5 +1,5 @@
-# get top voted Questions on StackOverflow
-This script is used for getting repositoes of a certain 
+# get top voted Questions on Stack Overflow
+This script is used for getting voted questions on Stack Overflow 
 
 ## How to run:
 1. Open terminal, run ```cd ~ && git clone https://github.com/hoangvux116/get-Top-quest-Stack```
